@@ -1,5 +1,4 @@
-# 💫 About Me:
-I’m currently working on many projects<br><br>🌱 I’m currently learning software engineering<br>💬 Ask me about software engineering basics<br>😄 Reference names : anonyma(anonym-266)<br>⚡ Feel free to create any issue as far as it covers the scope software engineering basics(for now 😁)<br><br>
+Backend-focused full-stack engineer (frontend: minimal), currently working on a Wazuh project. I’m learning system design and implementation to build the foundation I need for my ultimate goal: cybersecurity — defending and ethically testing real systems.
 
 
 ## 🌐 Socials:
